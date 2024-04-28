@@ -234,7 +234,7 @@ header .sub-menu ul.menu li a.moved:hover {
   margin:0 auto 2rem;
   width: 100%;
   /* max-width: 71.25rem; */
-  padding: 4rem 2rem;
+  /* padding: 4rem 2rem; */
   margin: 2 0 0 auto;
 }
 
@@ -292,7 +292,7 @@ header .sub-menu ul.menu li a.moved:hover {
   margin:0 auto 0;
   width: 100%;
   /* max-width: 71.25rem; */
-  padding: 4rem 2rem;
+  /* padding: 4rem 2rem; */
   margin: 2 0 0 auto;
   height: 70rem;
   background-color: #CED3DC;
@@ -350,7 +350,7 @@ header .sub-menu ul.menu li a.moved:hover {
   margin:0 auto 0;
   width: 100%;
   /* max-width: 71.25rem; */
-  padding: 4rem 2rem;
+  /* padding: 4rem 2rem; */
   margin: 2 0 0 auto;
   height: 35rem;
   background-color: #333;
@@ -422,7 +422,7 @@ header .sub-menu ul.menu li a.moved:hover {
   margin:0 auto 0;
   width: 100%;
   /* max-width: 71.25rem; */
-  padding: 4rem 2rem;
+  /* padding: 4rem 2rem; */
   margin: 2 0 0 auto;
   height: auto;
   background-color: #44e58c;
@@ -448,9 +448,8 @@ header .sub-menu ul.menu li a.moved:hover {
   font-family: Noto Sans KR,sans-serif;
 }
 
-.projects .project_containor .project_box{
-  
-  flex-shrink: 0;
+.projects .project_containor .project_box{ 
+  /* flex-shrink: 0; */
   width: 100%;
   padding: 1.5rem;
   margin: 35px;
@@ -520,7 +519,7 @@ header .sub-menu ul.menu li a.moved:hover {
   margin:0 auto 0;
   width: 100%;
   /* max-width: 71.25rem; */
-  padding: 4rem 2rem;
+  /* padding: 4rem 2rem; */
   margin: 2 0 0 auto;
   height: auto;
   background-color: #BDE7FC;
